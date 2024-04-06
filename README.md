@@ -1,4 +1,4 @@
-# home-sales-sparkSQL-queries
+# home-sales-sparkSQL-metrics
 UNC_data_bootcamp_module_22
 
 ## Challenge Description
